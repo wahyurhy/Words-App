@@ -14,8 +14,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-    <style name="Widget.Words.TextView" parent="Widget.MaterialComponents.TextView">
-        <item name="android:textAppearance">?attr/textAppearanceHeadline4</item>
-    </style>
-</resources>
+<resources></resources>
